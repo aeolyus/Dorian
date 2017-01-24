@@ -1,5 +1,5 @@
 html, body {
-  font-family: 'Roboto', 'Helvetica', sans-serif;
+  font-family: 'Roboto';
 }
 .demo-avatar {
   width: 100px;
@@ -67,6 +67,10 @@ html, body {
 
 .demo-charts {
   align-items: center;
+
+}
+.demo-chart{
+  border-radius: 100px;
 }
 .demo-chart:nth-child(1) {
   color: #ACEC00;
