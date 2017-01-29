@@ -154,3 +154,6 @@ _:-ms-input-placeholder, :root .demo-graph {
   box-sizing: border-box;
   align-items: center;
 }
+a{
+  text-decoration:none;
+}
